@@ -1,6 +1,6 @@
 # Myntra WeForShe 2024 Hackathon Phase-2 Submission
 ## Proposed Idea: Virtual Fashion Styling Assistant
-### Team Name: the_simpsons
+### Team Name: The_Simpsons
 ### Team Members: Ishita Gupta, Monalisa Maity
 ### University: Delhi Technological University
 
