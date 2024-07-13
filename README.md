@@ -20,8 +20,12 @@ To create a virtual fashion styling assistant to enhance the shopping experience
     eg: 1. What kinds on clothes will go with a particular type of pair of shoes?
         2. What kind of earrings will complement my dress?
     
-## Instructions to run the code:
+## Instructions to run the code locally:
 1. Create google gemini api key.
 2. Download the main.py file and the requirements.txt file which contains the dependencies.
 3. Run the following command in terminal:
    ``` streamlit run main.py```
+   
+## Deployment Details
+We have deployed our application as well using Streamlit
+**Link to the website:** https://monmon2003-myntra-weforshe2024-the-simpsons-main-s4cshr.streamlit.app/
