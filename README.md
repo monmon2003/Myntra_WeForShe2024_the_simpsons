@@ -4,11 +4,10 @@
 ### Team Members: Ishita Gupta, Monalisa Maity
 ### University: Delhi Technological University
 
-We will be working on the following 2 themes : -
+We will be working on the following 2 themes:
 	1. **Trend Generation** - Use of AI to generate designs and images for upcoming trends
 	2. **Engagement on a shopping platform** - Building engagement constructs on a platform which will drive a connect and virality among younger audiences in the country.
-     It need not be linked to shopping but needs to be linked to fashion, which will drive users to keep visiting the app on a habitual basis.
-
+     
 **Our Aim:** 
 	To create a virtual fashion styling assistant to enhance the shopping experience of Myntra users whilst attracting more users to the app at the same time.
  
