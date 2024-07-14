@@ -27,5 +27,6 @@ To create a virtual fashion styling assistant to enhance the shopping experience
    ``` streamlit run main.py```
    
 ## Deployment Details
-We have deployed our application as well using Streamlit
+We have deployed our application as well using Streamlit.
+
 **Link to the website:** https://monmon2003-myntra-weforshe2024-the-simpsons-main-s4cshr.streamlit.app/
