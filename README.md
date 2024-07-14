@@ -21,7 +21,7 @@ To create a virtual fashion styling assistant to enhance the shopping experience
         2. What kind of earrings will complement my dress?
     
 ## Instructions to run the code locally:
-1. Create google gemini api key.
+1. Create google gemini api key and store it in a .env file.
 2. Download the main.py file and the requirements.txt file which contains the dependencies.
 3. Run the following command in terminal:
    ``` streamlit run main.py```
